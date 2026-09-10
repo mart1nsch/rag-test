@@ -1,0 +1,5 @@
+onnxruntime
+tokenizers
+huggingface_hub
+numpy
+sqlite-vec
